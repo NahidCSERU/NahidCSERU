@@ -16,7 +16,7 @@ I love building **scalable cloud infrastructure** and automating workflows using
 ---
 ## ⭐ GitHub Stats
 
-![Nahid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahidCSERU&show_icons=true&theme=radical)
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahidCSERU&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ---
 ## 🛠️ Skills & Technologies
