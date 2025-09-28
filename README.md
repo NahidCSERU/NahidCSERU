@@ -19,19 +19,11 @@ I love building **scalable cloud infrastructure** and automating workflows using
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahidCSERU&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ---
-## 🛠️ Skills & Technologies
-
-| Category           | Tools & Technologies |
-|-------------------|--------------------|
-| Cloud & IaaS       | AWS (EC2, VPC, S3, IAM, Lambda) |
-| IaC / Automation   | Terraform |
-| Containerization   | Docker, Docker Compose, Multi-stage builds |
-| OS & DevOps        | Linux (Ubuntu, CentOS), Bash scripting, System Administration |
-| CI/CD & Monitoring | GitHub Actions, CloudWatch, Jenkins (basic) |
-
+## Hands-on Project
+here are some project:
+- [NodeJS_ecommerce_api_Dockerized](https://github.com/NahidCSERU/NODEJS-ECOMMERCE-API.git)
+- [linux-cron-automation](https://github.com/NahidCSERU/linux-cron-automation.git)
 ---
-
-
 ## 🌐 Cloud & Infrastructure Expertise
 
 - **AWS EC2 & VPC:** Launch, configure, and manage private/public subnets with security groups and endpoints.  
@@ -43,7 +35,7 @@ I love building **scalable cloud infrastructure** and automating workflows using
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Connect with me on LinkedIn – Cloud & DevOps](https://www.linkedin.com/in/nahidaws/)  
+- How to reach me: [Cloud & DevOps](https://www.linkedin.com/in/nahidaws/)  
 - Email: nahid.hasancseru@gmail.com
  
 
