@@ -23,6 +23,7 @@ I love building **scalable cloud infrastructure** and automating workflows using
 here are some project:
 - [NodeJS_ecommerce_api_Dockerized](https://github.com/NahidCSERU/NODEJS-ECOMMERCE-API.git)
 - [linux-cron-automation](https://github.com/NahidCSERU/linux-cron-automation.git)
+- [simple CI/CD pipeline using Jenkins, Docker, and Node.js](https://github.com/NahidCSERU/jenkins-nodejs-docker-demo.git)
 ---
 ## 🌐 Cloud & Infrastructure Expertise
 
