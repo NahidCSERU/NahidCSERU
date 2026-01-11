@@ -1,17 +1,21 @@
 # Hi, I'm Nahid Hasan
 
 ## 🔹 About Me
-I'm a passionate **Cloud & DevOps Engineer** with hands-on experience in **Linux, Terraform, Docker, and AWS**.  
-I love building **scalable cloud infrastructure** and automating workflows using **Infrastructure as Code**.  
+I'm a passionate **Cloud & DevOps Engineer** with hands-on experience in **Linux, Terraform, Docker, Kubernetes and AWS**.  
+I love building **scalable cloud infrastructure** and automating workflows using **Infrastructure as Code (IaC) and Kubernetes orchestration**.  
 
 ---
 
 ## 🌟 Skills & Tools Badges
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![kubectl](https://img.shields.io/badge/kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/reference/kubectl/)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
 
 ---
 ## ⭐ GitHub Stats
