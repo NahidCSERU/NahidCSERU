@@ -18,9 +18,12 @@ I love building **scalable cloud infrastructure** and automating workflows using
 
 
 ---
+
+
 ## ⭐ GitHub Stats
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahidCSERU&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NahidCSERU&show_icons=true&theme=tokyonight)
+
 
 ---
 ## Hands-on Project
